@@ -1,6 +1,6 @@
 # Stringmatch_typed_naming: Functions to pre-process typewritten answers (in picture naming tasks)
 
-R functions to pre-process typewritten answers in language production experiments, including the application of string distance metrices as implemented in the *stringdist* package ([van der Loo (2014)](https://journal.r-project.org/archive/2014/RJ-2014-011/index.html)). 
+R functions to pre-process typewritten answers in language production experiments, including the application of string distance metrices as implemented in the *stringdist* package ([van der Loo, 2014)](https://journal.r-project.org/archive/2014/RJ-2014-011/index.html)). 
 
 ## The functions
 The [script](https://github.com/kirstenstark/stringmatch_typed_naming/blob/main/stringmatch_typed_naming.R) contains five functions that allow to automatically preprocess typed answers, e.g. from a picture naming task: 
