@@ -8,7 +8,8 @@ The [script](https://github.com/kirstenstark/stringmatch_typed_naming/blob/main/
 - Replace special keys such as backspace, shift, etc., 
 - Apply backspace-corrections,
 - Compute fuzzy string matching (wrap-around function to the *stringdist* package that allows to identify the "best match" comparison to the typed word, which could be either the item or a synonym [list needs to be given]), and 
-- Classify different error types
+- Classify different error types  
+
 The functions can be applied individually or subsequently. 
 
 ## How to
