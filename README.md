@@ -21,7 +21,7 @@ An exemplary application of the functions is provided [here](https://github.com/
 The functions were also used for our preprint: add-preprint-here.
 
 ## Citation
-If you decide to uses these functions, I'd be happy if you would cite them: 
+If you decide to use these functions, I'd be happy if you would cite them: 
 Stark, K. (2021). Stringmatch_typed_naming. GitHub Repository. [https://github.com/kirstenstark/stringmatch_typed_naming](https://github.com/kirstenstark/stringmatch_typed_naming)
 
 ## Any comments, suggestions, extensions?
