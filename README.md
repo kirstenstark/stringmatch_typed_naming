@@ -26,3 +26,7 @@ Stark, K. (2021). Stringmatch_typed_naming. GitHub Repository. [https://github.c
 
 ## Any comments, suggestions, extensions?
 ... please let me know!
+
+### License
+
+This work was created by Kirsten Stark at the Humboldt-Universität zu Berlin and is subject to the [MIT License](https://github.com/kirstenstark/stringmatch_typed_naming).
