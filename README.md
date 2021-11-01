@@ -20,6 +20,9 @@ Researchers interested in using these functions should (1) download the [.R file
 An exemplary application of the functions is provided [here](https://github.com/kirstenstark/stringmatch_typed_naming/tree/main/example).  
 The functions were also used for our preprint: add-preprint-here.
 
+## Beta Version for online feedback
+I've also added a jsPsych plugin that assesse the correctness of participants' responses by using the Levenshtein distance as implemented by [Andrei Mackenzie] (https://gist.github.com/andrei-m/982927) and the custom functiosn previously discribed. This plugin several options implemented to be customized, but is still relatively bound to the paradigm it was programmed for. A more general implementation is to be added soon. 
+
 ## Citation
 If you decide to use these functions, I'd be happy if you would cite them: 
 Stark, K. (2021). Stringmatch_typed_naming. GitHub Repository. [https://github.com/kirstenstark/stringmatch_typed_naming](https://github.com/kirstenstark/stringmatch_typed_naming)
