@@ -7,7 +7,7 @@
 ### answers, e.g. in typed picture naming tasks. 
 ### -------------------
 ### CITATION: Stark, K. (2021) Stringmatch_typed_naming. GitHub Repository. 
-###             https://github.com/kirstenstark/typing_RTs_JS
+###             https://github.com/kirstenstark/stringmatch_typed_naming
 ### -------------------
 
 
